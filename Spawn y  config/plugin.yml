@@ -1,0 +1,13 @@
+main: com.jaime.tutorial.main
+name: Spawn
+version: 1.0
+author: Kibah
+description: Commands spawn
+commands:
+  setspawn:
+    aliases: [t]
+    description: Localiza el spawn!
+  spawn:
+    aliases: [s]
+    description: Tp al spawn!
+  
